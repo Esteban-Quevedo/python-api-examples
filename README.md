@@ -44,12 +44,13 @@ This project provides a foundation for incorporating Google Drive functionality 
 
 ## Documentation
 
-###Official Documentation
+### Project Documentation
+
+- Dropbox API Integration
+  Sample: [Dropbox Document Page](https://eqpsolutions.com/blog/techexperiments-hub-4/dropbox-api-integration-sample-6)
 
 - Google Drive API Integration
-  Sample: [Document Page](https://eqpsolutions.com/blog/techexperiments-hub-4/google-drive-api-integration-sample-5)
-- Dropbox API Integration
-  Sample: [Document Page](https://eqpsolutions.com/blog/techexperiments-hub-4/google-drive-api-integration-sample-5)
+  Sample: [Drive Document Page](https://eqpsolutions.com/blog/techexperiments-hub-4/google-drive-api-integration-sample-5)
 
 ## Contact
 
